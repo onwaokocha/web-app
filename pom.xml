@@ -109,7 +109,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>web-app</finalName>
+		<finalName>my-web-app</finalName>
 		
 		<plugins>
 			<plugin>
