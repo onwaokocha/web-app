@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.145.52.45:8000/repository/td-web-app-snapshops/</url>
+	      <url>http://3.145.52.45:8000/repository/td-web-app-snapshots/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
